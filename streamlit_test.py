@@ -32,3 +32,4 @@ if st.button("Calculate BMI"):
         st.warning("You are **Overweight**")
     else:
         st.error("You are **Obese**")
+        #end of the program
