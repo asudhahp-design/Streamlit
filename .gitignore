@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+__pycache__/
+
+# Python
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
